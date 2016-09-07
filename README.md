@@ -1,5 +1,5 @@
 # TEGitTraining201609
-
+a
 Ctvrty commit
 
 Tohle by mela byt prvni zmena kterou si checkoutnete
