@@ -11,5 +11,5 @@ kukszjujkfddgtuk
 	Paty commit
 
 	Tohle by mel byt prvni commit co dneska pushnu
-
+b
 Muj pokusny commit (kollamar)
